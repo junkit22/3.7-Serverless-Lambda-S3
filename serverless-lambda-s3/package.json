@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fixy": "^1.2.0",
+    "fixy": "^1.3.3",
     "papaparse": "^4.6.3"
   },
   "devDependencies": {
